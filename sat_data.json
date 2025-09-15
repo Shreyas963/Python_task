@@ -18,6 +18,15 @@
       "pincode": "3465456",
       "sat_score": 85.0,
       "passed": true
+    },
+    "surya": {
+      "name": "surya",
+      "address": "mudhol",
+      "city": "kalaburgi",
+      "country": "india",
+      "pincode": "585318",
+      "sat_score": 89.0,
+      "passed": true
     }
   }
 }
