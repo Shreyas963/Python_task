@@ -1,0 +1,23 @@
+{
+  "max_score": 100,
+  "records": {
+    "Shreyas": {
+      "name": "Shreyas",
+      "address": "Tarikee",
+      "city": "chikkamagaluru",
+      "country": "india",
+      "pincode": "577228",
+      "sat_score": 98.0,
+      "passed": true
+    },
+    "Surya": {
+      "name": "Surya",
+      "address": "banga",
+      "city": "sweden",
+      "country": "sweden",
+      "pincode": "3465456",
+      "sat_score": 85.0,
+      "passed": true
+    }
+  }
+}
